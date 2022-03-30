@@ -1,0 +1,23 @@
+{
+  "Settings.section-label": "SMS plugin",
+  "HeaderNav.link.providers": "Providers",
+  "Providers.data.loaded": "Providers have been loaded",
+  "notification.success.submit": "Settings have been updated",
+  "Providers.disabled": "Disabled",
+  "Providers.enabled": "Enabled",
+  "Providers.image": "Image",
+  "Providers.name": "Name",
+  "Providers.settings": "Settings",
+  "Providers.status": "Status",
+  "PopUpForm.header.edit.providers": "Edit Provider",
+  "PopUpForm.Providers.enabled.description": "If disabled, users won't be able to use this provider.",
+  "PopUpForm.Providers.enabled.label": "Enable",
+  "PopUpForm.Providers.apiKey.label": "API Key",
+  "PopUpForm.Providers.apiKey.placeholder": "TEXT",
+  "PopUpForm.Providers.accountId.label": "Account ID",
+  "PopUpForm.Providers.accountId.placeholder": "TEXT",
+  "PopUpForm.Providers.sourceName.label": "Source Name",
+  "PopUpForm.Providers.sourceName.placeholder": "TEXT",
+  "PopUpForm.Providers.otpCodeDigits.label": "OTP Code Digits",
+  "PopUpForm.Providers.otpCodeDigits.placeholder": "NUMBER"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "sms-providers",
+  "version": "0.0.0",
+  "description": "SMS providers.",
+  "strapi": {
+    "displayName": "SMS Providers",
+    "name": "sms-providers",
+    "description": "SMS providers.",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "@strapi/helper-plugin": "^4.1.5",
+    "@strapi/utils": "^4.1.5",
+    "awesome-phonenumber": "^2.67.0",
+    "axios": "^0.25.0",
+    "bcryptjs": "2.4.3",
+    "dayjs": "^1.10.8",
+    "grant-koa": "5.4.8",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.1.0",
+    "koa2-ratelimit": "^0.9.0",
+    "lodash": "4.17.21",
+    "querystring": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-intl": "5.20.2",
+    "react-redux": "7.2.3",
+    "react-router": "^5.2.0",
+    "react-router-dom": "5.2.0",
+    "redux-saga": "^0.16.0",
+    "request": "^2.83.0",
+    "url-join": "4.0.1",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "koa": "^2.13.1"
+  },
+  "author": {
+    "name": "Sorasak Siangsanan"
+  },
+  "maintainers": [
+    {
+      "name": "Sorasak Siangsanan"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

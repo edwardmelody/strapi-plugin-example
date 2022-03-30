@@ -1,0 +1,35 @@
+{
+  "name": "strapi-plugin-example",
+  "private": false,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi",
+    "generate": "strapi generate",
+    "stack:up": "docker-compose up -d",
+    "stack:down": "docker-compose down",
+    "stack:clear": "docker-compose down -v"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/strapi": "4.1.5",
+    "@strapi/plugin-users-permissions": "4.1.5",
+    "@strapi/plugin-i18n": "4.1.5",
+    "pg": "8.6.0",
+    "strapi-plugin-sms-providers": "file:src/plugins/sms-providers"
+  },
+  "author": {
+    "name": "Sorasak Siangsanan"
+  },
+  "strapi": {
+    "uuid": "7d0f1ee8-2958-43d7-99f9-c4c90d02f89f"
+  },
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

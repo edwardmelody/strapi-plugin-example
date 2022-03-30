@@ -1,0 +1,23 @@
+{
+  "Settings.section-label": "ปลั๊กอินผู้ให้บริการข้อความโทรศัพท์",
+  "HeaderNav.link.providers": "ผู้ให้บริการ",
+  "Providers.data.loaded": "ดึงข้อมูลผู้ให้บริการเรียบร้อยแล้ว",
+  "notification.success.submit": "แก้ไขสำเร็จ",
+  "Providers.disabled": "ปิดใช้งาน",
+  "Providers.enabled": "เปิดใช้งาน",
+  "Providers.image": "รูปภาพ",
+  "Providers.name": "ชื่อผู้ให้บริการ",
+  "Providers.settings": "ตั้งค่า",
+  "Providers.status": "สถานะ",
+  "PopUpForm.header.edit.providers": "แก้ไขผู้ให้บริการ",
+  "PopUpForm.Providers.enabled.description": "ปิดเพื่อไม่ให้ผู้ใช้สามารถใช้งานบริการนี้ได้",
+  "PopUpForm.Providers.enabled.label": "เปิดใช้งาน",
+  "PopUpForm.Providers.apiKey.label": "คีย์ของผู้ให้บริการ",
+  "PopUpForm.Providers.apiKey.placeholder": "ข้อความ",
+  "PopUpForm.Providers.accountId.label": "รหัสแสดงตัวตนของผู้ให้บริการ",
+  "PopUpForm.Providers.accountId.placeholder": "ข้อความ",
+  "PopUpForm.Providers.sourceName.label": "ชื่อผู้ให้บริการ",
+  "PopUpForm.Providers.sourceName.placeholder": "ข้อความ",
+  "PopUpForm.Providers.otpCodeDigits.label": "จำนวนของรหัส OTP",
+  "PopUpForm.Providers.otpCodeDigits.placeholder": "ตัวเลข"
+}
