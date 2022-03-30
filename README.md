@@ -59,6 +59,16 @@ npm run build
 yarn build
 ```
 
+### `New plugin`
+
+You can new plugin by Strapi cli and following thier instruction.
+
+```
+npm run generate
+# or
+yarn generate
+```
+
 ## ⚙️ Deployment
 
 Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
