@@ -4,7 +4,7 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 ### `Docker`
 
-To using docker, It requires **docker** and **docker-compse**.
+To using docker, It requires **docker** and **docker-compose**.
 Setup your environment. This project using **Postgresql** for database.
 
 ```
